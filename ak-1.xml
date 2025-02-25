@@ -8,6 +8,7 @@
         <maxamount>1000000</maxamount>
         <city>MSK</city>
     </item>
+    
     <item>
         <from>USDTERC</from>
         <to>SBERRUB</to>
@@ -17,7 +18,8 @@
         <maxamount>1000000</maxamount>
         <city>MSK</city>
     </item>
-        <item>
+    
+    <item>
         <from>USDTBEP</from>
         <to>SBERRUB</to>
         <in>1</in>
@@ -26,6 +28,7 @@
         <maxamount>1000000</maxamount>
         <city>MSK</city>
     </item>
+    
     <item>
         <from>SBERRUB</from>
         <to>USDTTRC</to>
@@ -35,7 +38,8 @@
         <maxamount>1000000</maxamount>
         <city>MSK</city>
     </item>
-        <item>
+    
+    <item>
         <from>SBERRUB</from>
         <to>USDTERC</to>
         <in>96.55</in>
@@ -44,6 +48,7 @@
         <maxamount>1000000</maxamount>
         <city>MSK</city>
     </item>
+    
     <item>
         <from>SBERRUB</from>
         <to>USDTBEP</to>
