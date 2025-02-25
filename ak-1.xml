@@ -44,8 +44,7 @@
         <maxamount>1000000</maxamount>
         <city>MSK</city>
     </item>
-        </item>
-        <item>
+    <item>
         <from>SBERRUB</from>
         <to>USDTBEP</to>
         <in>96.66</in>
