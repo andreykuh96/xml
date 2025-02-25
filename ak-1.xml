@@ -3,7 +3,7 @@
         <from>USDTTRC</from>
         <to>SBERRUB</to>
         <in>1</in>
-        <out>96.55</out>
+        <out>96.11</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
         <city>MSK</city>
@@ -12,7 +12,16 @@
         <from>USDTERC</from>
         <to>SBERRUB</to>
         <in>1</in>
-        <out>96.45</out>
+        <out>96.22</out>
+        <minamount>1</minamount>
+        <maxamount>1000000</maxamount>
+        <city>MSK</city>
+    </item>
+        <item>
+        <from>USDTBEP</from>
+        <to>SBERRUB</to>
+        <in>1</in>
+        <out>96.33</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
         <city>MSK</city>
@@ -20,7 +29,7 @@
     <item>
         <from>SBERRUB</from>
         <to>USDTTRC</to>
-        <in>97.40</in>
+        <in>96.44</in>
         <out>1</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
@@ -29,7 +38,17 @@
         <item>
         <from>SBERRUB</from>
         <to>USDTERC</to>
-        <in>97.40</in>
+        <in>96.55</in>
+        <out>1</out>
+        <minamount>1</minamount>
+        <maxamount>1000000</maxamount>
+        <city>MSK</city>
+    </item>
+        </item>
+        <item>
+        <from>SBERRUB</from>
+        <to>USDTBEP</to>
+        <in>96.66</in>
         <out>1</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
