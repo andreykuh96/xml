@@ -1,12 +1,38 @@
 <rates>
     <item>
         <from>USDTTRC</from>
-        <to>CASHRUB</to>
+        <to>SBERRUB</to>
         <in>1</in>
-        <out>96.75</out>
+        <out>96.55</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
         <city>MSK</city>
     </item>
-    
+    <item>
+        <from>USDTERC</from>
+        <to>SBERRUB</to>
+        <in>1</in>
+        <out>96.45</out>
+        <minamount>1</minamount>
+        <maxamount>1000000</maxamount>
+        <city>MSK</city>
+    </item>
+    <item>
+        <from>SBERRUB</from>
+        <to>USDTTRC</to>
+        <in>97.40</in>
+        <out>1</out>
+        <minamount>1</minamount>
+        <maxamount>1000000</maxamount>
+        <city>MSK</city>
+    </item>
+        <item>
+        <from>SBERRUB</from>
+        <to>USDTERC</to>
+        <in>97.40</in>
+        <out>1</out>
+        <minamount>1</minamount>
+        <maxamount>1000000</maxamount>
+        <city>MSK</city>
+    </item>
 </rates>
