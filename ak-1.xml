@@ -41,16 +41,6 @@
     
     <item>
         <from>SBERRUB</from>
-        <to>USDTERC</to>
-        <in>96.55</in>
-        <out>1</out>
-        <minamount>1</minamount>
-        <maxamount>1000000</maxamount>
-        <city>MSK</city>
-    </item>
-    
-    <item>
-        <from>SBERRUB</from>
         <to>USDTBEP</to>
         <in>96.66</in>
         <out>1</out>
