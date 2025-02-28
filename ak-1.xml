@@ -6,7 +6,6 @@
         <out>96.11</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
-        <city>MSK</city>
     </item>
     
     <item>
@@ -16,7 +15,6 @@
         <out>96.22</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
-        <city>MSK</city>
     </item>
     
     <item>
@@ -26,6 +24,5 @@
         <out>1</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
-        <city>MSK</city>
     </item>
 </rates>
