@@ -8,23 +8,23 @@
         <maxamount>1000000</maxamount>
     </item>
     
-<!--     <item>
+    <item>
         <from>USDTERC</from>
         <to>SBERRUB</to>
         <in>1</in>
         <out>96.22</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
-    </item> -->
+    </item>
 
-    <item>
+<!--     <item>
         <from>SBERRUB</from>
         <to>USDTTRC</to>
         <in>96.33</in>
         <out>1</out>
         <minamount>1</minamount>
         <maxamount>1000000</maxamount>
-    </item>
+    </item> -->
     
     <item>
         <from>SBERRUB</from>
