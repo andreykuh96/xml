@@ -28,7 +28,7 @@
     
     <item>
         <from>SBERRUB</from>
-        <to>USDTERC</to>
+        <to>USDTERC20</to>
         <in>96.44</in>
         <out>1</out>
         <minamount>1</minamount>
